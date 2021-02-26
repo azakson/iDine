@@ -21,6 +21,7 @@
 		582C177425E6180A004C8681 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582C177325E6180A004C8681 /* ItemDetail.swift */; };
 		58D1FF8625E8073C00A414D4 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D1FF8525E8073C00A414D4 /* OrderView.swift */; };
 		58D1FF8B25E808A700A414D4 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D1FF8A25E808A700A414D4 /* MainView.swift */; };
+		58D1FF9B25E80BE800A414D4 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58D1FF9A25E80BE800A414D4 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		582C177325E6180A004C8681 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		58D1FF8525E8073C00A414D4 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		58D1FF8A25E808A700A414D4 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		58D1FF9A25E80BE800A414D4 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				582C177325E6180A004C8681 /* ItemDetail.swift */,
 				58D1FF8525E8073C00A414D4 /* OrderView.swift */,
 				58D1FF8A25E808A700A414D4 /* MainView.swift */,
+				58D1FF9A25E80BE800A414D4 /* CheckoutView.swift */,
 				582C176825E5B917004C8681 /* ItemRow.swift */,
 				582C174E25E025AF004C8681 /* Helper.swift */,
 				582C175825E025C9004C8681 /* Menu.swift */,
@@ -286,6 +289,7 @@
 			files = (
 				582C177425E6180A004C8681 /* ItemDetail.swift in Sources */,
 				58D1FF8B25E808A700A414D4 /* MainView.swift in Sources */,
+				58D1FF9B25E80BE800A414D4 /* CheckoutView.swift in Sources */,
 				58D1FF8625E8073C00A414D4 /* OrderView.swift in Sources */,
 				582C172325E02103004C8681 /* ContentView.swift in Sources */,
 				582C172125E02103004C8681 /* iDineApp.swift in Sources */,
